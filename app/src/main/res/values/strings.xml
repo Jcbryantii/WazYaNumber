@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WazYaNumber?</string>
+    <string name="think_statement">I\'m thinking of a number between 1 and 50.</string>
+    <string name="can_you_guess">Can You Guess?</string>
+    <string name="guess">Guess!</string>
+    <string name="guessRange">1 - 50</string>
+</resources>
